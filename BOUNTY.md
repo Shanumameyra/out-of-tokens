@@ -19,7 +19,7 @@ time, humour first, freshness second. The line must stand alone, without
 the conversation that came before it. `main.py` writes it to
 `/output/entry.txt`.
 
-## Final one-liner (85 characters)
+## Final one-liner (84 characters)
 
 `Error: token budget exhausted at 'the'. The rest of this sentence has been laid off.`
 

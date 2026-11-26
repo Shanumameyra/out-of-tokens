@@ -7,7 +7,7 @@ tokens mid-sentence.
 """
 
 LINE = "Error: token budget exhausted at 'the'. The rest of this sentence has been laid off."
-# 85 characters: well inside the 140-character gate, single line, no padding.
+# 84 characters: well inside the 140-character gate, single line, no padding.
 
 
 

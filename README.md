@@ -10,7 +10,7 @@ A [make.fun](https://make.fun/bounty/u-kiencx-out-of-tokens-mid-sentence-00f6023
 
 > Error: token budget exhausted at 'the'. The rest of this sentence has been laid off.
 
-85 characters, one line, no padding. It reads like a flat, real error message — then turns: the sentence itself got laid off.
+84 characters, one line, no padding. It reads like a flat, real error message — then turns: the sentence itself got laid off.
 
 ## How it works
 
